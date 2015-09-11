@@ -2,7 +2,7 @@
 /**
  * ImperaviUploadController.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://rmrevin.com
  */
 
 namespace cookyii\rest\controllers;
@@ -24,7 +24,7 @@ abstract class ImperaviUploadController extends \yii\rest\Controller
     {
         $UploadedResource = new Media\media\UploadedResource(\yii\web\UploadedFile::getInstanceByName('file'));
 
-        $Media = \resources\Media::push($UploadedResource);
+        $Media = \cookyii\modules\Media\resources\Media::push($UploadedResource);
 
         if (empty($Media)) {
             throw new \yii\web\ServerErrorHttpException;
@@ -44,7 +44,7 @@ abstract class ImperaviUploadController extends \yii\rest\Controller
     {
         $UploadedResource = new Media\media\UploadedResource(\yii\web\UploadedFile::getInstanceByName('file'));
 
-        $Media = \resources\Media::push($UploadedResource);
+        $Media = \cookyii\modules\Media\resources\Media::push($UploadedResource);
 
         if (empty($Media)) {
             throw new \yii\web\ServerErrorHttpException;

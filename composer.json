@@ -13,8 +13,8 @@
   "authors": [
     {
       "name": "Revin Roman",
-      "email": "roman@rmrevin.ru",
-      "homepage": "https://rmrevin.ru/",
+      "email": "roman@rmrevin.com",
+      "homepage": "https://rmrevin.com/",
       "role": "Founder and project lead"
     }
   ],
@@ -25,7 +25,9 @@
   "require": {
     "php": ">=5.4.0",
 
-    "yiisoft/yii2": "2.0.*"
+    "yiisoft/yii2": "2.0.*",
+
+    "cookyii/module-media": "dev-master"
   },
   "autoload": {
     "psr-4": {

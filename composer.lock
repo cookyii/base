@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "hash": "6814a8ce46ba1d2d35204c955a9df710",
+    "content-hash": "9a14b561ffb7724bb077556f11165839",
     "packages": [
         {
             "name": "bower-asset/jquery",
@@ -229,12 +230,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cookyii/module-media.git",
-                "reference": "5a781275dcc8eab62de1e74bc4d461d9fc1eeb57"
+                "reference": "97389337bd5c883388d72e5ea630873252bb5083"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cookyii/module-media/zipball/5a781275dcc8eab62de1e74bc4d461d9fc1eeb57",
-                "reference": "5a781275dcc8eab62de1e74bc4d461d9fc1eeb57",
+                "url": "https://api.github.com/repos/cookyii/module-media/zipball/97389337bd5c883388d72e5ea630873252bb5083",
+                "reference": "97389337bd5c883388d72e5ea630873252bb5083",
                 "shasum": ""
             },
             "require": {
@@ -274,7 +275,7 @@
                 "video",
                 "yii2"
             ],
-            "time": "2015-09-11 20:12:16"
+            "time": "2015-09-11 21:20:08"
         },
         {
             "name": "ezyang/htmlpurifier",

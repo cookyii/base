@@ -230,12 +230,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cookyii/module-media.git",
-                "reference": "97389337bd5c883388d72e5ea630873252bb5083"
+                "reference": "01e8892248250d4e4794bed110c00ea5f520dbcc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cookyii/module-media/zipball/97389337bd5c883388d72e5ea630873252bb5083",
-                "reference": "97389337bd5c883388d72e5ea630873252bb5083",
+                "url": "https://api.github.com/repos/cookyii/module-media/zipball/01e8892248250d4e4794bed110c00ea5f520dbcc",
+                "reference": "01e8892248250d4e4794bed110c00ea5f520dbcc",
                 "shasum": ""
             },
             "require": {
@@ -275,7 +275,7 @@
                 "video",
                 "yii2"
             ],
-            "time": "2015-09-11 21:20:08"
+            "time": "2015-09-19 20:46:19"
         },
         {
             "name": "ezyang/htmlpurifier",

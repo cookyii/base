@@ -133,16 +133,16 @@
         },
         {
             "name": "bower-asset/yii2-pjax",
-            "version": "v2.0.4",
+            "version": "v2.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/jquery-pjax.git",
-                "reference": "3f20897307cca046fca5323b318475ae9dac0ca0"
+                "reference": "6818718408086db6bdcf33649cecb86b6b4f9b67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/jquery-pjax/zipball/3f20897307cca046fca5323b318475ae9dac0ca0",
-                "reference": "3f20897307cca046fca5323b318475ae9dac0ca0",
+                "url": "https://api.github.com/repos/yiisoft/jquery-pjax/zipball/6818718408086db6bdcf33649cecb86b6b4f9b67",
+                "reference": "6818718408086db6bdcf33649cecb86b6b4f9b67",
                 "shasum": ""
             },
             "require": {
@@ -230,12 +230,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cookyii/module-media.git",
-                "reference": "ff40fcb3868234f5d3bc5d1e5c001ba658fb9ba3"
+                "reference": "bde96348caa6567c784f2f8bfa436cf4d3c7681f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cookyii/module-media/zipball/ff40fcb3868234f5d3bc5d1e5c001ba658fb9ba3",
-                "reference": "ff40fcb3868234f5d3bc5d1e5c001ba658fb9ba3",
+                "url": "https://api.github.com/repos/cookyii/module-media/zipball/bde96348caa6567c784f2f8bfa436cf4d3c7681f",
+                "reference": "bde96348caa6567c784f2f8bfa436cf4d3c7681f",
                 "shasum": ""
             },
             "require": {
@@ -275,7 +275,7 @@
                 "video",
                 "yii2"
             ],
-            "time": "2015-10-01 16:43:32"
+            "time": "2015-10-31 19:10:08"
         },
         {
             "name": "ezyang/htmlpurifier",

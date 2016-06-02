@@ -1,19 +1,19 @@
 <?php
 /**
- * Presenter.php
+ * AbstractHelper.php
  * @author Revin Roman
  * @link https://rmrevin.com
  */
 
-namespace cookyii;
+namespace cookyii\db\helpers;
 
 use yii\helpers\Inflector;
 
 /**
- * Class Presenter
- * @package cookyii
+ * Class AbstractHelper
+ * @package cookyii\db\helpers
  */
-abstract class Presenter extends \yii\base\Object
+abstract class AbstractHelper extends \yii\base\Object
 {
 
     /** @var \yii\db\ActiveRecord */
